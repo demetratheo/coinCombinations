@@ -1,1 +1,1 @@
-# coinCombinations
+# Coin Combinations

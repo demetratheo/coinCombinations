@@ -7,6 +7,7 @@ This project aims to find and print all the possible coin combinations of a give
 For the given coins find and print all the possible combinations.
 
 int[] coins = {1, 2, 5};
+
 int amount = 10;
 
 #### Output

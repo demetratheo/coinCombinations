@@ -1,6 +1,6 @@
 ## Coin Combinations
 
-This project aims to find and print all the possible coin combinations of a given amount.
+This project aims to find and print all the possible coin combinations for a given amount.
 
 ### Example
 
